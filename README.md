@@ -6,7 +6,7 @@
     <img src="https://james-1258744956.cos.ap-shanghai.myqcloud.com/thingsboard-mqtt-part2/dog_bone.gif" alt="分隔线君">
 </p>
 
-*“鲜衣怒马少年时，一夜忘尽长安花* ”
+*“愿你走出半生？归来依旧少年* ”
 
 
 
